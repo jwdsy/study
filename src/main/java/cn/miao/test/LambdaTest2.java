@@ -12,7 +12,7 @@ public class LambdaTest2 {
 	public static void main(String[] args) throws UnsupportedEncodingException {
 		String str = "健康晚报1q?";
 		System.err.println(str.getBytes("GBK").length);
-		// TODO: 2017/5/15 xxxxxxxxxxxxxxxxxxxxx
+		// TODO: 2017/5/15 xxxxxxxxxxxxxxxxxxxxxBBB
 	}
 
 }

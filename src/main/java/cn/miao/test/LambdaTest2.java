@@ -14,6 +14,7 @@ public class LambdaTest2 {
 		System.err.println(str.getBytes("GBK").length);
 		// TODO: 2017/5/15 xxxxxxxxxxxxxxxxxxxxxBBB
 		// TODO: 2017/5/15 YYYYYYYYYYYYYYYYYYYYYCCCDDDDDDDDDDDDDDDDD
+		// TODO: WWWWWWWWWWWWWWWW
 	}
 
 }

@@ -13,7 +13,7 @@ public class LambdaTest2 {
 		String str = "健康晚报1q?";
 		System.err.println(str.getBytes("GBK").length);
 		// TODO: 2017/5/15 xxxxxxxxxxxxxxxxxxxxxBBB
-		// TODO: 2017/5/15 YYYYYYYYYYYYYYYYYYYYY
+		// TODO: 2017/5/15 YYYYYYYYYYYYYYYYYYYYYCCC
 	}
 
 }

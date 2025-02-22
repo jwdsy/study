@@ -1,0 +1,9 @@
+[submodule "study-git"]
+	path = study-git
+	url = git@github.com:jwdsy/study-git.git
+[submodule "study-java"]
+	path = study-java
+	url = git@github.com:jwdsy/study-java.git
+[submodule "study-vue"]
+	path = study-vue
+	url = git@github.com:jwdsy/study-vue.git
